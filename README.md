@@ -1,8 +1,8 @@
-# (Application Name)
+# Euler Solutions
 
-#### (Brief Description of Application)
+#### Practicing functional programming techniques by applying closures, recursion, and currying to solve problems from [Project Euler](https://projecteuler.net/archives)
 
-#### By (Your Name Here)
+#### By Jake Elsberry
 
 ## Technologies Used
 
@@ -42,8 +42,8 @@ A Template Repo set up for automatic testing with Jest.
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* None at the moment
+
 
 ## License
 
