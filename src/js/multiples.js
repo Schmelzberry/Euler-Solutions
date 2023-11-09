@@ -1,4 +1,4 @@
-// Problem #1 - Euler Archives
+// PROBLEM #1 - Euler Archives
 
 // QUESTION: 
 // If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
@@ -21,4 +21,10 @@ const multipleCount = (num) => {
 // call function so webpack can stfu
 multipleCount(20);
 
-// Problem #1 - Euler Archives
+// PROBLEM #1 - Euler Archives
+
+// QUESTION: 
+// If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+// ANSWER: 
+// Find the sum of all the multiples of 3 or 5 below 1000.
